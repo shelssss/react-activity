@@ -10,6 +10,7 @@ import Todos from "./pages/Todos";
 import Todo from "./pages/Todo";
 import AddTodo from "./pages/AddTodo";
 
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<MainLayout />}>
